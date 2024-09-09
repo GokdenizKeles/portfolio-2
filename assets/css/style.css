@@ -99,5 +99,12 @@ width: 100%;
    transform: scale(1);
   }
 }
-
+ @media screen and (min-width:394px) {
+   .header {
+     width: max-content;
+   }
+    .nav {
+      font-size: 19px;
+    }
+}
   
