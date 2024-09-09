@@ -39,13 +39,13 @@ body {
 .nav {
   list-style: none;
  display: flex;
- justify-content: space-around;
+ justify-content: space-evenly;
  background-color: black;
 color: #fff;
 font-size: 20px;
 height: 100px;
 padding-top: 30px;
-gap: 10px;
+gap: 5px;
 
 }
 .nav a {
